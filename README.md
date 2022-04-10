@@ -1,8 +1,12 @@
-<h1 align="center"> i exist </h1>
-<h2 align="center"> i exist </h2>
-<h3 align="center"> i exist </h3>
-<h4 align="center"> i exist </h4>
-<h5 align="center"> i exist </h5>
-<h6 align="center"> i exist </h6>
-<h1></h1>
-<p align="center"> i indeed just exist </p>
+<h2 align="center"> im a professional of doing nothing </h2>
+
+<h3>here's a list of things i can do:</h3>
+<il>
+  <li>i can exist</li>
+  
+  <li>i can exist</li>
+  
+  <li>i can exist</li>
+</il>
+<h3></h3>
+<p> i indeed just can exist </p>
